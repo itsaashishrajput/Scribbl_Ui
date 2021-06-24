@@ -27,4 +27,5 @@ public class Avatar {
     public void setImageUrl(Integer imageUrl) {
         this.imageUrl = imageUrl;
     }
+
 }
